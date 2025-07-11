@@ -6,3 +6,9 @@ The application is deployed as an interactive Streamlit web app, allowing users 
 ✔️ Blood Pressure
 ✔️ Insulin
 ✔️ Age, and more.
+⚙️ Tech Stack
+Frontend: Streamlit
+Machine Learning: Scikit-learn (Logistic Regression)
+Data Handling: NumPy, Pandas
+Visualization: Matplotlib
+Model Saving: Joblib
